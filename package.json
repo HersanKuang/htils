@@ -3,8 +3,16 @@
   "version": "1.0.1",
   "description": "It is an out-of-the-box JavaScript library.",
   "main": "src/index.js",
+  "scripts": {
+    "test-bus": "node ./test/event-bus-test.js"
+  },
   "author": "hersan",
   "license": "MIT",
+  "homepage": "https://github.com/HersanKuang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HersanKuang/hx-treasure-chest.git"
+  },
   "keywords": [
     "hersan",
     "utils",
