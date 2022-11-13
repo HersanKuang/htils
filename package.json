@@ -1,0 +1,17 @@
+{
+  "name": "hx-treasure-chest",
+  "version": "1.0.1",
+  "description": "It is an out-of-the-box JavaScript library.",
+  "main": "src/index.js",
+  "author": "hersan",
+  "license": "MIT",
+  "keywords": [
+    "hersan",
+    "utils",
+    "vue",
+    "react"
+  ],
+  "devDependencies": {
+    "axios": "^1.1.3"
+  }
+}
