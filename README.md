@@ -23,10 +23,10 @@ It is an out-of-the-box JavaScript library that encapsulates some of the most co
 
 ### npm安装
 ```shell
-npm install hx-treasure-chest
+npm install htils
 ```
 
 ### pnpm安装
 ```shell
-pnpm add hx-treasure-chest
+pnpm add htils
 ```
