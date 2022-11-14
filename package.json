@@ -11,13 +11,13 @@
   "homepage": "https://github.com/HersanKuang",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HersanKuang/hx-treasure-chest.git"
+    "url": "https://github.com/HersanKuang/htils.git"
   },
   "keywords": [
     "hersan",
     "utils",
-    "vue",
-    "react"
+    "JavaScript",
+    "htils"
   ],
   "devDependencies": {
     "@types/node": "*",
