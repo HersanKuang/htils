@@ -4,7 +4,8 @@
   "description": "It is an out-of-the-box JavaScript library.",
   "main": "src/index.js",
   "scripts": {
-    "test-bus": "node ./test/event-bus-test.js"
+    "test-bus": "node ./test/event-bus-test.js",
+    "test-deep-copy": "node ./test/deep-copy-test.js"
   },
   "author": "hersan",
   "license": "MIT",

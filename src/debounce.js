@@ -1,4 +1,3 @@
-// 原则：一个函数尽量做一件事情，一个变量也用于记录一种状态
 function HXDebounce(callbackFn, delay, immediate = true) {
   // 1.用于记录上一次事件触发的timer
   let timer = null
