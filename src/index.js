@@ -3,5 +3,6 @@ module.exports = {
   HXLocalCache: require('./cache'),
   HXThrottle: require('./throttle'),
   HXDebounce: require('./debounce'),
-  HXDeepCopy: require('./deep-copy')
+  HXDeepCopy: require('./deep-copy'),
+  HXGetBase64: require('./ftob')
 }
