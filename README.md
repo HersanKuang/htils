@@ -1,4 +1,4 @@
-# hx-treasure-chest
+# htils
 
 It is an out-of-the-box JavaScript library that encapsulates some of the most common tools used in daily development for fast and efficient development.
 
@@ -10,7 +10,7 @@ It is an out-of-the-box JavaScript library that encapsulates some of the most co
 
 - In order to achieve efficient development, I decided to gather all the utility functions that I currently use in my work into one place.
 
-- The hx-treasure-chest was born.
+- The htils was born.
 
 ## 设计灵感
 
