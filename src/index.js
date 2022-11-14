@@ -1,3 +1,4 @@
 module.exports = {
-  HXEventBus: require('./event-bus')
+  HXEventBus: require('./event-bus'),
+  HXLocalCache: require('./cache')
 }
