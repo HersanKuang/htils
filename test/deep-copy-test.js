@@ -1,4 +1,4 @@
-const { HXDeepCopy } = require('../src')
+const { deepCopy } = require('../src')
 
 const set = new Set(["abc", "cba", "nba"])
 const map = new Map()
@@ -27,7 +27,7 @@ const info = {
 // info.self = info
 info.info = info
 
-const newObj = HXDeepCopy(info)
+const newObj = deepCopy(info)
 // selfMap = null
 
 console.log(newObj)

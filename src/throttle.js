@@ -1,4 +1,4 @@
-function HXThrottle(callbackFn, interval, { leading = true, trailing = false } = {}) {
+function HXThrottle(callbackFn, interval = 200, { leading = true, trailing = false } = {}) {
   let startTime = 0
   let timer = null
   const _throttle = function(...args) {

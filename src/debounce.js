@@ -1,4 +1,4 @@
-function HXDebounce(callbackFn, delay, immediate = true) {
+function HXDebounce(callbackFn, delay = 200, immediate = true) {
   // 1.用于记录上一次事件触发的timer
   let timer = null
   let isInvoke = false
