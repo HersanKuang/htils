@@ -1,6 +1,6 @@
 {
   "name": "htils",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "It is an out-of-the-box JavaScript library.",
   "main": "src/index.js",
   "scripts": {
