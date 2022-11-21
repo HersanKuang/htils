@@ -1,8 +1,9 @@
 module.exports = {
-  HXEventBus: require('./event-bus'),
+  HXEventBus: require('./eventBus'),
+  HXEventStore: require('./eventStore'),
   localCache: require('./cache'),
   throttle: require('./throttle'),
   debounce: require('./debounce'),
-  deepCopy: require('./deep-copy'),
+  deepCopy: require('./deepCopy'),
   getBase64: require('./ftob')
 }

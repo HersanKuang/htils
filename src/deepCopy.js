@@ -1,7 +1,4 @@
-function isObject(value) {
-  const valueType = typeof value
-  return (value !== null) && (valueType === "object" || valueType === "function")
-}
+const isObject = require('./utils')
 
 function HXDeepCopy(originValue, selfMap = new WeakMap()) {
 

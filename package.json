@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test-bus": "node ./test/event-bus-test.js",
+    "test-store": "node ./Test/event-store-test.js",
     "test-deep-copy": "node ./test/deep-copy-test.js"
   },
   "author": "hersan",
