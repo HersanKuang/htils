@@ -1,9 +1,9 @@
 // 文件转换为base64码
-function HXGetBase64(file) {
+function getBase64(file) {
   return new Promise((resolve, reject) => {
     const reader = new FileReader()
+    reader.readAsDataURL(file)
     let fileResult = ''
-    if (file) reader.readAsDataURL(file.file)
     reader.onload = () => {
       fileResult = reader.result
     }
@@ -16,4 +16,4 @@ function HXGetBase64(file) {
   })
 }
 
-module.exports = HXGetBase64
+module.exports = getBase64
