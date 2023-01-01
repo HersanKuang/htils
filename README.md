@@ -16,17 +16,17 @@ It is an out-of-the-box JavaScript library that encapsulates some of the most co
 
 - 日常开发中，我们总会在项目中封装一些工具库
 - 为了实现高效的开发，我决定将目前我工作中常用的工具函数汇总到一个地方
-- hx-treasure-chest 应运而生
+- htils 应运而生
 
 
 ## 如何使用
 
-### npm安装
+### Install htils (npm安装)
 ```shell
 npm install htils
 ```
 
-### pnpm安装
+### Install htils (pnpm安装)
 ```shell
 pnpm add htils
 ```
