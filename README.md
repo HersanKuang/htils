@@ -19,7 +19,7 @@ It is an out-of-the-box JavaScript library that encapsulates some of the most co
 - htils 应运而生
 
 
-## 如何使用
+## How to use (如何使用)
 
 ### Install htils (npm安装)
 ```shell
